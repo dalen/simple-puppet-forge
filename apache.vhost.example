@@ -1,0 +1,4 @@
+<VirtualHost *:80>
+  PassengerAppRoot /usr/share/simple-puppet-forge
+  DocumentRoot /usr/share/simple-puppet-forge
+</VirtualHost>
